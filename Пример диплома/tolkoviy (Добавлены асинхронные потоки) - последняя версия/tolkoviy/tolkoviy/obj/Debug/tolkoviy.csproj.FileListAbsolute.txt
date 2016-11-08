@@ -1,0 +1,18 @@
+c:\users\ifreezy\documents\visual studio 2015\Projects\tolkoviy\tolkoviy\bin\Debug\tolkoviy.exe.config
+c:\users\ifreezy\documents\visual studio 2015\Projects\tolkoviy\tolkoviy\bin\Debug\tolkoviy.exe
+c:\users\ifreezy\documents\visual studio 2015\Projects\tolkoviy\tolkoviy\bin\Debug\tolkoviy.pdb
+c:\users\ifreezy\documents\visual studio 2015\Projects\tolkoviy\tolkoviy\obj\Debug\tolkoviy.csprojResolveAssemblyReference.cache
+c:\users\ifreezy\documents\visual studio 2015\Projects\tolkoviy\tolkoviy\obj\Debug\tolkoviy.Form1.resources
+c:\users\ifreezy\documents\visual studio 2015\Projects\tolkoviy\tolkoviy\obj\Debug\tolkoviy.Properties.Resources.resources
+c:\users\ifreezy\documents\visual studio 2015\Projects\tolkoviy\tolkoviy\obj\Debug\tolkoviy.csproj.GenerateResource.Cache
+c:\users\ifreezy\documents\visual studio 2015\Projects\tolkoviy\tolkoviy\obj\Debug\tolkoviy.exe
+c:\users\ifreezy\documents\visual studio 2015\Projects\tolkoviy\tolkoviy\obj\Debug\tolkoviy.pdb
+C:\Users\iFreezy\Dropbox\Примеры\Пример диплома\tolkoviy (Добавлены асинхронные потоки) - последняя версия\tolkoviy\tolkoviy\bin\Debug\tolkoviy.exe.config
+C:\Users\iFreezy\Dropbox\Примеры\Пример диплома\tolkoviy (Добавлены асинхронные потоки) - последняя версия\tolkoviy\tolkoviy\obj\Debug\tolkoviy.exe
+C:\Users\iFreezy\Dropbox\Примеры\Пример диплома\tolkoviy (Добавлены асинхронные потоки) - последняя версия\tolkoviy\tolkoviy\obj\Debug\tolkoviy.pdb
+C:\Users\iFreezy\Dropbox\Примеры\Пример диплома\tolkoviy (Добавлены асинхронные потоки) - последняя версия\tolkoviy\tolkoviy\bin\Debug\tolkoviy.exe
+C:\Users\iFreezy\Dropbox\Примеры\Пример диплома\tolkoviy (Добавлены асинхронные потоки) - последняя версия\tolkoviy\tolkoviy\bin\Debug\tolkoviy.pdb
+C:\Users\iFreezy\Dropbox\Примеры\Пример диплома\tolkoviy (Добавлены асинхронные потоки) - последняя версия\tolkoviy\tolkoviy\obj\Debug\tolkoviy.csprojResolveAssemblyReference.cache
+C:\Users\iFreezy\Dropbox\Примеры\Пример диплома\tolkoviy (Добавлены асинхронные потоки) - последняя версия\tolkoviy\tolkoviy\obj\Debug\tolkoviy.Form1.resources
+C:\Users\iFreezy\Dropbox\Примеры\Пример диплома\tolkoviy (Добавлены асинхронные потоки) - последняя версия\tolkoviy\tolkoviy\obj\Debug\tolkoviy.Properties.Resources.resources
+C:\Users\iFreezy\Dropbox\Примеры\Пример диплома\tolkoviy (Добавлены асинхронные потоки) - последняя версия\tolkoviy\tolkoviy\obj\Debug\tolkoviy.csproj.GenerateResource.Cache
