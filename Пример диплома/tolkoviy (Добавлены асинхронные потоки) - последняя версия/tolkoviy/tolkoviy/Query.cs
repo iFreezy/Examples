@@ -10,8 +10,6 @@ namespace tolkoviy
 {
     class Query
     {
-        //TO DO
-        //Сделать асинхронный поток для добавления данных в бд
         public void put_value(string file_path,string constring, string file_name) //запись данных в таблицы
         {
             Streamfs strf = new Streamfs();
